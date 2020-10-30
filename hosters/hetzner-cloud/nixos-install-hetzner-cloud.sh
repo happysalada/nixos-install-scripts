@@ -1,4 +1,4 @@
-#! /run/current-system/sw/bin/bash bash
+#! /run/current-system/sw/bin/bash
 
 # Script to install NixOS from the Hetzner Cloud NixOS bootable ISO image.
 # (tested with Hetzner's `NixOS 20.03 (amd64/minimal)` ISO image).
